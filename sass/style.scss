@@ -43,7 +43,12 @@ body{
     text-align: center;
     color: #fff;
     top: 50%;
-    transform: translateY(50%);
+    transform: translateY(40%);
+}
+
+.niceto h1{
+    margin: 0;
+    font-size: 44px;
 }
 
 .insideportfolio{
@@ -52,11 +57,32 @@ body{
 }
 
 .padd{
-    padding: 2px 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.card{
+    background-color: #fff;
 }
 
 .padb{
-    padding-bottom: 100px;
+    padding-bottom: 50px;
+}
+
+.pad h3{
+    margin: 0;
+}
+
+.pad p{
+    margin: 0;
+}
+
+.card-body h5{
+ margin: 0;;
+}
+
+.card-body p{
+    margin: 0;;
 }
 
 .out{
